@@ -1,5 +1,11 @@
 
 
+<<<<<<< HEAD
 MAIN_BRANCH_FIRST_ROW
 
 isidasdijasdasdasdsadasdasdsads:222222Жй
+=======
+
+MAIN_BRANCH_FIRST_ROW:i
+sdasdjasd:
+>>>>>>> test_branch
